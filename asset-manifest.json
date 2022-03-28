@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/shield-magic-sword/static/css/main.e8220388.chunk.css",
-    "main.js": "/shield-magic-sword/static/js/main.277efedb.chunk.js",
-    "main.js.map": "/shield-magic-sword/static/js/main.277efedb.chunk.js.map",
-    "runtime-main.js": "/shield-magic-sword/static/js/runtime-main.d61ea88c.js",
-    "runtime-main.js.map": "/shield-magic-sword/static/js/runtime-main.d61ea88c.js.map",
-    "static/js/2.b5560421.chunk.js": "/shield-magic-sword/static/js/2.b5560421.chunk.js",
-    "static/js/2.b5560421.chunk.js.map": "/shield-magic-sword/static/js/2.b5560421.chunk.js.map",
-    "static/js/3.636d69b9.chunk.js": "/shield-magic-sword/static/js/3.636d69b9.chunk.js",
-    "static/js/3.636d69b9.chunk.js.map": "/shield-magic-sword/static/js/3.636d69b9.chunk.js.map",
+    "main.js": "/shield-magic-sword/static/js/main.3d865386.chunk.js",
+    "main.js.map": "/shield-magic-sword/static/js/main.3d865386.chunk.js.map",
+    "runtime-main.js": "/shield-magic-sword/static/js/runtime-main.74a582f3.js",
+    "runtime-main.js.map": "/shield-magic-sword/static/js/runtime-main.74a582f3.js.map",
+    "static/js/2.50f38df3.chunk.js": "/shield-magic-sword/static/js/2.50f38df3.chunk.js",
+    "static/js/2.50f38df3.chunk.js.map": "/shield-magic-sword/static/js/2.50f38df3.chunk.js.map",
+    "static/js/3.ca68681c.chunk.js": "/shield-magic-sword/static/js/3.ca68681c.chunk.js",
+    "static/js/3.ca68681c.chunk.js.map": "/shield-magic-sword/static/js/3.ca68681c.chunk.js.map",
     "index.html": "/shield-magic-sword/index.html",
     "service-worker.js": "/shield-magic-sword/service-worker.js",
     "service-worker.js.map": "/shield-magic-sword/service-worker.js.map",
     "static/css/main.e8220388.chunk.css.map": "/shield-magic-sword/static/css/main.e8220388.chunk.css.map",
-    "static/js/2.b5560421.chunk.js.LICENSE.txt": "/shield-magic-sword/static/js/2.b5560421.chunk.js.LICENSE.txt"
+    "static/js/2.50f38df3.chunk.js.LICENSE.txt": "/shield-magic-sword/static/js/2.50f38df3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d61ea88c.js",
-    "static/js/2.b5560421.chunk.js",
+    "static/js/runtime-main.74a582f3.js",
+    "static/js/2.50f38df3.chunk.js",
     "static/css/main.e8220388.chunk.css",
-    "static/js/main.277efedb.chunk.js"
+    "static/js/main.3d865386.chunk.js"
   ]
 }
