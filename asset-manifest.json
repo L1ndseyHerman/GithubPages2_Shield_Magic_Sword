@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/GithubPages2_Shield_Magic_Sword/static/css/main.e8220388.chunk.css",
-    "main.js": "/GithubPages2_Shield_Magic_Sword/static/js/main.d25a727f.chunk.js",
-    "main.js.map": "/GithubPages2_Shield_Magic_Sword/static/js/main.d25a727f.chunk.js.map",
-    "runtime-main.js": "/GithubPages2_Shield_Magic_Sword/static/js/runtime-main.8d34100c.js",
-    "runtime-main.js.map": "/GithubPages2_Shield_Magic_Sword/static/js/runtime-main.8d34100c.js.map",
-    "static/js/2.2afbe35e.chunk.js": "/GithubPages2_Shield_Magic_Sword/static/js/2.2afbe35e.chunk.js",
-    "static/js/2.2afbe35e.chunk.js.map": "/GithubPages2_Shield_Magic_Sword/static/js/2.2afbe35e.chunk.js.map",
-    "static/js/3.ca68681c.chunk.js": "/GithubPages2_Shield_Magic_Sword/static/js/3.ca68681c.chunk.js",
-    "static/js/3.ca68681c.chunk.js.map": "/GithubPages2_Shield_Magic_Sword/static/js/3.ca68681c.chunk.js.map",
+    "main.js": "/GithubPages2_Shield_Magic_Sword/static/js/main.8f1a7005.chunk.js",
+    "main.js.map": "/GithubPages2_Shield_Magic_Sword/static/js/main.8f1a7005.chunk.js.map",
+    "runtime-main.js": "/GithubPages2_Shield_Magic_Sword/static/js/runtime-main.d225defb.js",
+    "runtime-main.js.map": "/GithubPages2_Shield_Magic_Sword/static/js/runtime-main.d225defb.js.map",
+    "static/js/2.b5560421.chunk.js": "/GithubPages2_Shield_Magic_Sword/static/js/2.b5560421.chunk.js",
+    "static/js/2.b5560421.chunk.js.map": "/GithubPages2_Shield_Magic_Sword/static/js/2.b5560421.chunk.js.map",
+    "static/js/3.636d69b9.chunk.js": "/GithubPages2_Shield_Magic_Sword/static/js/3.636d69b9.chunk.js",
+    "static/js/3.636d69b9.chunk.js.map": "/GithubPages2_Shield_Magic_Sword/static/js/3.636d69b9.chunk.js.map",
     "index.html": "/GithubPages2_Shield_Magic_Sword/index.html",
     "service-worker.js": "/GithubPages2_Shield_Magic_Sword/service-worker.js",
     "service-worker.js.map": "/GithubPages2_Shield_Magic_Sword/service-worker.js.map",
     "static/css/main.e8220388.chunk.css.map": "/GithubPages2_Shield_Magic_Sword/static/css/main.e8220388.chunk.css.map",
-    "static/js/2.2afbe35e.chunk.js.LICENSE.txt": "/GithubPages2_Shield_Magic_Sword/static/js/2.2afbe35e.chunk.js.LICENSE.txt"
+    "static/js/2.b5560421.chunk.js.LICENSE.txt": "/GithubPages2_Shield_Magic_Sword/static/js/2.b5560421.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d34100c.js",
-    "static/js/2.2afbe35e.chunk.js",
+    "static/js/runtime-main.d225defb.js",
+    "static/js/2.b5560421.chunk.js",
     "static/css/main.e8220388.chunk.css",
-    "static/js/main.d25a727f.chunk.js"
+    "static/js/main.8f1a7005.chunk.js"
   ]
 }
